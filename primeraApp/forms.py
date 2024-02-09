@@ -7,4 +7,4 @@ class CreateNewFormTask(forms.Form):
 class CreateNewFormProject(forms.Form):
     name = forms.CharField(label="Project name", max_length=200)
     
-#HOLAAAAAA
+#HOLAAAAAA 2024
